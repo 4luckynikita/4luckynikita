@@ -1,6 +1,6 @@
 # What's up! 
 ## 👋 My name is Nikita Kastyshyn
-### - 👨‍💼 I'm a 20-year-old fullstack web developer
+### - 👨‍💼 I'm a committed fullstack web developer
 ### - 📍 Based in the Bay Area, CA
 ### - 📚 Graduate of App Academy's 24-Week Fullstack SWE Bootcamp
 ### - 🚗 My hobbies include modifying cars, action sports, and editing videos
