@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Nikita Kastyshyn</strong>
-  <br>21 y/o Fullstack Web Developer | Bay Area, CA<br>
+  <br>21 y/o Fullstack Web Developer | Los Angeles, CA<br>
   <a href="https://www.linkedin.com/in/nikitakastyshyn/">LinkedIn</a> • 
   <a href="mailto:4luckynikita@proton.me">Email</a> • 
   <a href="https://drive.google.com/file/d/1pTSG3hnOh9YNl0PicLnguavQ30Z-GwzH/view?usp=sharing">Resume</a>
@@ -73,17 +73,4 @@
 
 --- 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table style="width:100%; max-width:900px;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=4luckynikita&theme=default&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" width="100%" height="200px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4luckynikita&theme=default&hide_border=false&layout=compact" width="100%" height="200px"/>
-      </td>
-    </tr>
-  </table>
-</div>
+*This readme is horrifically out of date now, will update it eventually*
