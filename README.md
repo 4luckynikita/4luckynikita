@@ -12,7 +12,7 @@
 
 - 🧠 Currently seeking: SWE internships or full-time roles focused on **fullstack**, **frontend**, or **infra/devops**.
 
-- 📍 Based in the Bay Area, CA  
+- 📍 Currently in Los Angeles, CA but originally from the Bay Area
 
 - 📚 Graduate of App Academy's 24-Week Fullstack SWE Bootcamp  
 
