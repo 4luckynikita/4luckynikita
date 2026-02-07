@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-- 🧠 Currently seeking: SWE internships or full-time roles focused on **fullstack**, **frontend**, or **infra/devops**.
+- 🧠 In search of: SWE internships or full-time roles focused on **fullstack**, **frontend**, or **infra/devops**.
 
 - 📍 Currently in Los Angeles, CA but originally from the Bay Area
 
