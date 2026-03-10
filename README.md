@@ -2,8 +2,9 @@
   <strong>Nikita Kastyshyn</strong>
   <br>22 y/o Fullstack Web Developer | Los Angeles, CA<br>
   <a href="https://www.linkedin.com/in/nikitakastyshyn/">LinkedIn</a> • 
-  <a href="mailto:4luckynikita@proton.me">Email</a> • 
-  <a href="https://drive.google.com/file/d/1pTSG3hnOh9YNl0PicLnguavQ30Z-GwzH/view?usp=sharing">Resume</a>
+  <a href="mailto:4luckynikita@proton.me">Email</a> 
+  <!-- • 
+  <a href="https://drive.google.com/file/d/1pTSG3hnOh9YNl0PicLnguavQ30Z-GwzH/view?usp=sharing">Resume</a> -->
 </p>
 
 ---
@@ -71,6 +72,4 @@
   </table>
 </div>
 
---- 
-
-*This readme is horrifically out of date now, will update it eventually*
+---
