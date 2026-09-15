@@ -1,3 +1,5 @@
+![Golden Gate Bridge framed by trees](banner.gif)
+
 Founding engineer at [BioStrive](https://github.com/BioStrive).  
 Building Emporia.
 
